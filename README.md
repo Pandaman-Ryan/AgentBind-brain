@@ -1,7 +1,7 @@
 # AgentBind-brain #
 AgentBind is a machine-learning framework for analyzing gene-regulatory regions in the human genome and identifying genomic bases with strong effects on regulatory activities. This code repository contains code for the classification + visualization experiments.
 
-Preprint paper: [**click here**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8009085/)
+Preprint paper: [**click here (TO UPDATE)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8009085/)
 
 Please cite: \
 `Zheng, A., Shen, Z., Glass, C., and Gymrek, M. Deep learning predicts regulatory impact of variants in cell-type-specific enhancers in brain. bioRxiv (2022).`
