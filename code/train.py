@@ -1,16 +1,10 @@
 import os
 import tensorflow as tf
-import tensorflow_addons as tfa
+# import tensorflow_addons as tfa
 from tensorflow.keras import layers, models, initializers, regularizers, callbacks
-import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.metrics import roc_auc_score
-from sklearn.metrics import roc_curve
 from sklearn.metrics import average_precision_score
-from sklearn.metrics import precision_recall_curve
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
 
 from load import data_loader
 

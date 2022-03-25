@@ -4,13 +4,9 @@ Input data are bed files. Output data are one-hot encoded sequences in txt files
 
 import os
 import random
-import math
 from optparse import OptionParser
 from Bio.Seq import Seq
 from Bio import SeqIO
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
 
 
 class dataset:
@@ -187,8 +183,8 @@ if __name__ == "__main__":
             help='Path to the data folder.')
     (options, args) = parser.parse_args() 
 
-    data_path = os.path.join(options.storage_path, "/experiments/")
-    if not options.storage_path:
+    data_path = os.path.join(options.storage_path, "experiments/")
+    if options.storage_path:
         main(data_path)
     else:
         exit("Please specify parameter --path.")
