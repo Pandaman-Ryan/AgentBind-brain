@@ -10,11 +10,11 @@ Please cite: \
 Code in this repository has been tested on CentOS Linux 7 (core) with Python (v3.7.4) in the Anaconda (v4.11.0) environment. Please make sure you have installed the following python libraries before you run the code.
 
 ### python libraries ###
-Our code requires external python libraries including tensorflow v2.3.0 , biopython v1.71, numpy v1.18.5, six v1.15.0, and scikit-image v0.21.3. You can install them with the conda package manager.
+Our code requires external python libraries including Tensorflow v2.3.0 , biopython v1.71, numpy v1.18.5, six v1.15.0, and scikit-image v0.21.3. You can install them with the conda package manager.
 
 
 ## Data Download ##
-Input data of the experiments can be downloaded using this link: [**download**](https://drive.google.com/file/d/12mrLk9Ci7u2tKB8kuqldGXE9ghAzpbUk/view?usp=sharing)
+Input data of the experiments can be downloaded using this link: [**download**](https://drive.google.com/file/d/1BdGdsDybiAJExMF2tlCvv1EMDJ5wJ2Qq/view?usp=sharing)
 
 
 ## Data Preparation ##
