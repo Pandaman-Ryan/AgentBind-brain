@@ -1,10 +1,10 @@
 # AgentBind-brain #
 AgentBind is a deep-learning framework that analyzes gene-regulatory regions in the human genome and identifies genomic positions with strong effects on regulatory activities. This Github repository contains code for an experiment in which we apply AgentBind to analyzing H3K27ac signals in brain cells.
 
-Preprint paper: [**click here (TO UPDATE LINK)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8009085/)
+<!---Preprint paper: [**click here (TO UPDATE LINK)**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8009085/)--->
 
-Please cite: \
-`Zheng, A., Shen, Z., Glass, C., and Gymrek, M. Deep learning predicts regulatory impact of variants in cell-type-specific enhancers in brain. bioRxiv (2022).`
+<!---Please cite: \--->
+<!---`Zheng, A., Shen, Z., Glass, C., and Gymrek, M. Deep learning predicts regulatory impact of variants in cell-type-specific enhancers in brain. bioRxiv (2022).`--->
 
 [System Requirement & Installation](#Requirement) | [Data Download](#Download) | [Data Preparation](#Preparation)  | [Run Experiments](#Usage) | [Demo](#Demo) | [Contact](#Contact)
 
